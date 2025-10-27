@@ -39,7 +39,7 @@ export const Footer = () => {
             <div className="flex gap-1 justify-around items-center ">
               {/* <FaFacebook className="text-4xl cursor-pointer hover:shadow-sm hover:shadow-gray p-1 rounded-lg" /> */}
               <Link
-                href={"http://www.twitter.com/asad_companySA"}
+                href={"http://www.twitter.com/Asad_company_sa"}
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -76,12 +76,12 @@ export const Footer = () => {
             </div>
             <div className="gmail my-2">
               <Link
-                href="mailto:AMCO112025@gmail.com"
+                href="mailto:info@amcoksa.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <p className="text-xl cursor-pointer shadow-sm shadow-gray p-1 rounded-lg">
-                  AMCO112025@gmail.com
+                  info@amcoksa.com
                 </p>
               </Link>
             </div>
