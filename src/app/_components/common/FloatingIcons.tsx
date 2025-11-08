@@ -36,12 +36,12 @@ const FloatingIcons: React.FC = () => {
           {/* أيقونة الواتساب */}
           <div className="fixed right-5 bg-green-500 text-white h-12 rounded-md p-2 flex items-center justify-center shadow-lg cursor-pointer z-50">
             <Link
-              href="https://wa.me/966501144066"
+              href="https://wa.me/966552255614"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white flex items-center"
             >
-              <span className="hidden md:inline-block md:mr-2">‏‎+966 50 114 4066‎‏</span> 
+              <span className="hidden md:inline-block md:mr-2">‏‎+966 5522 55614‎‏</span> 
               <FaWhatsapp className="text-3xl" />
             </Link>
           </div>
@@ -76,7 +76,7 @@ const FloatingIcons: React.FC = () => {
               rel="noopener noreferrer"
               className="text-white flex items-center"
             >
-              <span className="hidden md:inline-block md:mr-2">‏‎+966 50 114 4066‎‏</span> 
+              <span className="hidden md:inline-block md:mr-2">‏‎+966 5522 55614‎‏</span> 
               <FaPhoneAlt className="text-2xl" />
             </Link>
           </div>
