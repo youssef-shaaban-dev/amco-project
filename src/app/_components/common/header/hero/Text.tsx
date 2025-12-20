@@ -27,7 +27,7 @@ export const Text: React.FC<TextProps> = ({ className = "" }) => {
 
         {/* النص العربي */}
         <p className="text-base sm:text-lg text-primary font-semibold">
-          شركة اســـــاد النموذجية
+          اســـــاد النموذجية
         </p>
 
         {/* النص الإنجليزي */}

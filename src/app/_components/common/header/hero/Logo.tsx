@@ -11,7 +11,7 @@ export const Logo: React.FC<LogoProps> = ({ className, src }) => {
     <div className={`relative  flex justify-center items-center w-full h-full ${className}`}>
       <img
         src={src}
-        alt="لوجو شركة آمكو"
+        alt="لوجو  آمكو"
         className="absolute object-cover z-50"
       />
     </div>

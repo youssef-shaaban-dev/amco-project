@@ -9,10 +9,10 @@ const RightSections = () => {
         <p className="w-full text-wrap text-justify text-sm md:text-base leading-5 lg:leading-6">
           من أجلكم أنتـم ..
           <br />
-          نحن شركة آمكو ( اساد النموذجية للصيانة والنظافة ) ولتقديم المجالات
+          نحن  آمكو ( اساد النموذجية للصيانة والنظافة ) ولتقديم المجالات
           الخدمية واللوجستية التالية:-
           <br />
-          شركة تنظيف مبنى مباني قصر قصور عماره عمائر منزل منازل نظافة فيلا فلل
+          تنظيف مبنى مباني قصر قصور عماره عمائر منزل منازل نظافة فيلا فلل
           شقه شقق بيت بيوت مكتب مكاتب معرض معارض صالة غرفة صالون مجلس مجالس كنب
           سجاد موكيت ستائر ابواب شبابيك قاعه كوفي شوب تلميع جلي رخام جرانيت درج
           سيراميك بلاط ارضيات سطح سطوح ثيل مسطحات خضراء ملاعب غسيل عزل خزان
@@ -33,10 +33,10 @@ const RightSections = () => {
         </button>
       </Link>
       <div className="video mt-10 h-[250px] flex justify-center items-center">
-        <VideoCommon 
-          url="/videos/main-video.mp4" 
-          width={100} 
-          height={100} 
+        <VideoCommon
+          url="/videos/main-video.mp4"
+          width={100}
+          height={100}
         />
       </div>
     </div>
